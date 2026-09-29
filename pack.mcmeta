@@ -1,7 +1,8 @@
 {
     "pack": {
         "description": "KK Sot Pack! by @LukeEXE and @Dr_Brandini all credit goes to The Noxcrew",
-        "pack_format": 64,
+        "min_format": 69.0,
+    	"max_format": 32767,
 		"sodium": { 
 		  "ignored_shaders": [ 
 		     "rendertype_cutout.json",
